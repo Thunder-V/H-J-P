@@ -60,5 +60,18 @@ p {
     height: 800px;
     background-color: deepskyblue;
 }
+#My Favorite Book{
+    width: 100%;
+    height: 800px;
+    background-color: darkkhaki;
+}
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
 
 
